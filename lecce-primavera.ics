@@ -11,6 +11,7 @@ DTSTAMP:20261006T000000Z
 DTSTART;TZID=Europe/Rome:20260822T110000
 DTEND;TZID=Europe/Rome:20260822T130000
 SUMMARY:22/08/2026 - 11:00 - Lecce U20 - Lazio U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato o riferimento regolamentare.
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -19,6 +20,7 @@ DTSTAMP:20261006T000000Z
 DTSTART;TZID=Europe/Rome:20260830T110000
 DTEND;TZID=Europe/Rome:20260830T130000
 SUMMARY:30/08/2026 - 11:00 - Torino U20 - Lecce U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato o riferimento regolamentare.
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -27,6 +29,7 @@ DTSTAMP:20261006T000000Z
 DTSTART;TZID=Europe/Rome:20260904T110000
 DTEND;TZID=Europe/Rome:20260904T130000
 SUMMARY:04/09/2026 - 11:00 - Lecce U20 - Roma U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato o riferimento regolamentare.
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -35,6 +38,7 @@ DTSTAMP:20261006T000000Z
 DTSTART;TZID=Europe/Rome:20260912T110000
 DTEND;TZID=Europe/Rome:20260912T130000
 SUMMARY:12/09/2026 - 11:00 - Monza U20 - Lecce U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato o riferimento regolamentare.
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -43,6 +47,7 @@ DTSTAMP:20261006T000000Z
 DTSTART;TZID=Europe/Rome:20260919T110000
 DTEND;TZID=Europe/Rome:20260919T130000
 SUMMARY:19/09/2026 - 11:00 - Lecce U20 - Fiorentina U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato o riferimento regolamentare.
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -51,6 +56,7 @@ DTSTAMP:20261006T000000Z
 DTSTART;TZID=Europe/Rome:20261011T104500
 DTEND;TZID=Europe/Rome:20261011T124500
 SUMMARY:11/10/2026 - 10:45 - Hellas Verona U20 - Lecce U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato o riferimento regolamentare.
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -59,22 +65,7 @@ DTSTAMP:20261006T000000Z
 DTSTART;TZID=Europe/Rome:20261017T110000
 DTEND;TZID=Europe/Rome:20261017T130000
 SUMMARY:17/10/2026 - 11:00 - Lecce U20 - Cesena U20
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:lecce-u20-6@lecce-primavera-
-DTSTAMP:20261006T000000Z
-DTSTART;TZID=Europe/Rome:20261011T104500
-DTEND;TZID=Europe/Rome:20261011T124500
-SUMMARY:11/10/2026 - 10:45 - Hellas Verona U20 - Lecce U20
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:lecce-u20-7@lecce-primavera-
-DTSTAMP:20261006T000000Z
-DTSTART;TZID=Europe/Rome:20261017T110000
-DTEND;TZID=Europe/Rome:20261017T130000
-SUMMARY:17/10/2026 - 11:00 - Lecce U20 - Cesena U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato o riferimento regolamentare.
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -83,22 +74,7 @@ DTSTAMP:20261006T000000Z
 DTSTART;TZID=Europe/Rome:20261024T110000
 DTEND;TZID=Europe/Rome:20261024T130000
 SUMMARY:24/10/2026 - 11:00 - Juventus U20 - Lecce U20
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:lecce-u20-7@lecce-primavera-
-DTSTAMP:20261006T000000Z
-DTSTART;TZID=Europe/Rome:20261017T110000
-DTEND;TZID=Europe/Rome:20261017T130000
-SUMMARY:17/10/2026 - 11:00 - Lecce U20 - Cesena U20
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:lecce-u20-8@lecce-primavera-
-DTSTAMP:20261006T000000Z
-DTSTART;TZID=Europe/Rome:20261024T110000
-DTEND;TZID=Europe/Rome:20261024T130000
-SUMMARY:24/10/2026 - 11:00 - Juventus U20 - Lecce U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato o riferimento regolamentare.
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -107,6 +83,268 @@ DTSTAMP:20261006T000000Z
 DTSTART;TZID=Europe/Rome:20261031T110000
 DTEND;TZID=Europe/Rome:20261031T130000
 SUMMARY:31/10/2026 - 11:00 - Lecce U20 - Bologna U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato o riferimento regolamentare.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lecce-u20-10@lecce-primavera-
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20261107T110000
+DTEND;TZID=Europe/Rome:20261107T130000
+SUMMARY:07/11/2026 - 11:00 - Genoa U20 - Lecce U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato o riferimento regolamentare.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lecce-u20-11@lecce-primavera-
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20261121T110000
+DTEND;TZID=Europe/Rome:20261121T130000
+SUMMARY:21/11/2026 - 11:00 - Lecce U20 - Atalanta U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato o riferimento regolamentare.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lecce-u20-12@lecce-primavera-
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20261128T110000
+DTEND;TZID=Europe/Rome:20261128T130000
+SUMMARY:28/11/2026 - 11:00 - Milan U20 - Lecce U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato o riferimento regolamentare.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lecce-u20-13@lecce-primavera-
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20261205T110000
+DTEND;TZID=Europe/Rome:20261205T130000
+SUMMARY:05/12/2026 - 11:00 - Lecce U20 - AlbinoLeffe U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato o riferimento regolamentare.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lecce-u20-14@lecce-primavera-
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20261212T110000
+DTEND;TZID=Europe/Rome:20261212T130000
+SUMMARY:12/12/2026 - 11:00 - Parma U20 - Lecce U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato o riferimento regolamentare.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lecce-u20-15@lecce-primavera-
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20261216T110000
+DTEND;TZID=Europe/Rome:20261216T130000
+SUMMARY:16/12/2026 - 11:00 - Lecce U20 - Como U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato o riferimento regolamentare.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lecce-u20-16@lecce-primavera-
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20261219T110000
+DTEND;TZID=Europe/Rome:20261219T130000
+SUMMARY:19/12/2026 - 11:00 - Cagliari U20 - Lecce U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato o riferimento regolamentare.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lecce-u20-17@lecce-primavera-
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270103T110000
+DTEND;TZID=Europe/Rome:20270103T130000
+SUMMARY:03/01/2027 - 11:00 - Lecce U20 - Empoli U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato o riferimento regolamentare.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lecce-u20-18@lecce-primavera-
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270106T110000
+DTEND;TZID=Europe/Rome:20270106T130000
+SUMMARY:06/01/2027 - 11:00 - Inter U20 - Lecce U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato o riferimento regolamentare.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lecce-u20-19@lecce-primavera-
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270109T110000
+DTEND;TZID=Europe/Rome:20270109T130000
+SUMMARY:09/01/2027 - 11:00 - Lecce U20 - Sassuolo U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato o riferimento regolamentare.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lecce-u20-20@lecce-primavera-
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270116T110000
+DTEND;TZID=Europe/Rome:20270116T130000
+SUMMARY:16/01/2027 - 11:00 - Bologna U20 - Lecce U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato o riferimento regolamentare.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lecce-u20-21@lecce-primavera-
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270123T110000
+DTEND;TZID=Europe/Rome:20270123T130000
+SUMMARY:23/01/2027 - 11:00 - Fiorentina U20 - Lecce U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato o riferimento regolamentare.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lecce-u20-22@lecce-primavera-
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270130T110000
+DTEND;TZID=Europe/Rome:20270130T130000
+SUMMARY:30/01/2027 - 11:00 - Lecce U20 - Parma U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato o riferimento regolamentare.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lecce-u20-23@lecce-primavera-
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270206T110000
+DTEND;TZID=Europe/Rome:20270206T130000
+SUMMARY:06/02/2027 - 11:00 - Como U20 - Lecce U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato o riferimento regolamentare.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lecce-u20-24@lecce-primavera-
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270213T110000
+DTEND;TZID=Europe/Rome:20270213T130000
+SUMMARY:13/02/2027 - 11:00 - Lecce U20 - Milan U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato o riferimento regolamentare.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lecce-u20-25@lecce-primavera-
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270220T110000
+DTEND;TZID=Europe/Rome:20270220T130000
+SUMMARY:20/02/2027 - 11:00 - Atalanta U20 - Lecce U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato o riferimento regolamentare.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lecce-u20-26@lecce-primavera-
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270227T110000
+DTEND;TZID=Europe/Rome:20270227T130000
+SUMMARY:27/02/2027 - 11:00 - Lecce U20 - Torino U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato o riferimento regolamentare.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lecce-u20-27@lecce-primavera-
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270303T110000
+DTEND;TZID=Europe/Rome:20270303T130000
+SUMMARY:03/03/2027 - 11:00 - Lazio U20 - Lecce U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato o riferimento regolamentare.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lecce-u20-28@lecce-primavera-
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270306T110000
+DTEND;TZID=Europe/Rome:20270306T130000
+SUMMARY:06/03/2027 - 11:00 - Lecce U20 - Cagliari U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato o riferimento regolamentare.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lecce-u20-29@lecce-primavera-
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270313T110000
+DTEND;TZID=Europe/Rome:20270313T130000
+SUMMARY:13/03/2027 - 11:00 - Cesena U20 - Lecce U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato o riferimento regolamentare.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lecce-u20-30@lecce-primavera-
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270320T110000
+DTEND;TZID=Europe/Rome:20270320T130000
+SUMMARY:20/03/2027 - 11:00 - Inter U20 - Lecce U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato o riferimento regolamentare.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lecce-u20-31@lecce-primavera-
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270403T110000
+DTEND;TZID=Europe/Rome:20270403T130000
+SUMMARY:03/04/2027 - 11:00 - Empoli U20 - Lecce U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato o riferimento regolamentare.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lecce-u20-32@lecce-primavera-
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270410T110000
+DTEND;TZID=Europe/Rome:20270410T130000
+SUMMARY:10/04/2027 - 11:00 - Juventus U20 - Lecce U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato o riferimento regolamentare.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lecce-u20-33@lecce-primavera-
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270417T110000
+DTEND;TZID=Europe/Rome:20270417T130000
+SUMMARY:17/04/2027 - 11:00 - Sassuolo U20 - Lecce U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato o riferimento regolamentare.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lecce-u20-34@lecce-primavera-
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270424T110000
+DTEND;TZID=Europe/Rome:20270424T130000
+SUMMARY:24/04/2027 - 11:00 - Lecce U20 - Monza U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato o riferimento regolamentare.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lecce-u20-35@lecce-primavera-
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270501T110000
+DTEND;TZID=Europe/Rome:20270501T130000
+SUMMARY:01/05/2027 - 11:00 - Roma U20 - Lecce U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato o riferimento regolamentare.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lecce-u20-36@lecce-primavera-
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270508T110000
+DTEND;TZID=Europe/Rome:20270508T130000
+SUMMARY:08/05/2027 - 11:00 - Lecce U20 - Genoa U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato o riferimento regolamentare.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lecce-u20-37@lecce-primavera-
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270515T110000
+DTEND;TZID=Europe/Rome:20270515T130000
+SUMMARY:15/05/2027 - 11:00 - AlbinoLeffe U20 - Lecce U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato o riferimento regolamentare.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lecce-u20-38@lecce-primavera-
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270522T110000
+DTEND;TZID=Europe/Rome:20270522T130000
+SUMMARY:22/05/2027 - 11:00 - Lecce U20 - Hellas Verona U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato o riferimento regolamentare.
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
