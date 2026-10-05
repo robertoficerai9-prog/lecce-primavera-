@@ -1,0 +1,350 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Milan Primavera U20 ICS//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Milan Primavera U20 2026/27
+X-WR-TIMEZONE:Europe/Rome
+BEGIN:VEVENT
+UID:milan-u20-1@milan-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20260824T08undefined00
+DTEND;TZID=Europe/Rome:20260824T10undefined00
+SUMMARY:24/08/2026 - 17:00 - Milan U20 - Torino U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato/calendario di riferimento.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:milan-u20-2@milan-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20260830T08undefined00
+DTEND;TZID=Europe/Rome:20260830T10undefined00
+SUMMARY:30/08/2026 - 16:45 - Cesena U20 - Milan U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato/calendario di riferimento.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:milan-u20-3@milan-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20260906T09undefined00
+DTEND;TZID=Europe/Rome:20260906T11undefined00
+SUMMARY:06/09/2026 - 11:00 - Milan U20 - Juventus U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato/calendario di riferimento.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:milan-u20-4@milan-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20260912T09undefined00
+DTEND;TZID=Europe/Rome:20260912T11undefined00
+SUMMARY:12/09/2026 - 13:00 - Verona U20 - Milan U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato/calendario di riferimento.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:milan-u20-5@milan-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20260920T09undefined00
+DTEND;TZID=Europe/Rome:20260920T11undefined00
+SUMMARY:20/09/2026 - 11:00 - Milan U20 - Roma U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato/calendario di riferimento.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:milan-u20-6@milan-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20261010T10undefined00
+DTEND;TZID=Europe/Rome:20261010T12undefined00
+SUMMARY:10/10/2026 - 15:00 - Atalanta U20 - Milan U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato/calendario di riferimento.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:milan-u20-7@milan-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20261017T10undefined00
+DTEND;TZID=Europe/Rome:20261017T12undefined00
+SUMMARY:17/10/2026 - 15:00 - Milan U20 - Cagliari U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato/calendario di riferimento.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:milan-u20-8@milan-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20261024T10undefined00
+DTEND;TZID=Europe/Rome:20261024T12undefined00
+SUMMARY:24/10/2026 - 15:00 - Fiorentina U20 - Milan U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato/calendario di riferimento.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:milan-u20-9@milan-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20261031T10undefined00
+DTEND;TZID=Europe/Rome:20261031T12undefined00
+SUMMARY:31/10/2026 - 15:00 - Monza U20 - Milan U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario pubblicato/calendario di riferimento.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:milan-u20-10@milan-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20261107T11undefined00
+DTEND;TZID=Europe/Rome:20261107T13undefined00
+SUMMARY:07/11/2026 - 11:00 - Milan U20 - AlbinoLeffe U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario non ancora specificato: riferimento tecnico 11:00, da aggiornare alla pubblicazione ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:milan-u20-11@milan-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20261121T11undefined00
+DTEND;TZID=Europe/Rome:20261121T13undefined00
+SUMMARY:21/11/2026 - 11:00 - Lazio U20 - Milan U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario non ancora specificato: riferimento tecnico 11:00, da aggiornare alla pubblicazione ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:milan-u20-12@milan-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20261128T11undefined00
+DTEND;TZID=Europe/Rome:20261128T13undefined00
+SUMMARY:28/11/2026 - 11:00 - Milan U20 - Lecce U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario non ancora specificato: riferimento tecnico 11:00, da aggiornare alla pubblicazione ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:milan-u20-13@milan-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20261205T12undefined00
+DTEND;TZID=Europe/Rome:20261205T14undefined00
+SUMMARY:05/12/2026 - 11:00 - Milan U20 - Genoa U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario non ancora specificato: riferimento tecnico 11:00, da aggiornare alla pubblicazione ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:milan-u20-14@milan-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20261212T12undefined00
+DTEND;TZID=Europe/Rome:20261212T14undefined00
+SUMMARY:12/12/2026 - 11:00 - Sassuolo U20 - Milan U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario non ancora specificato: riferimento tecnico 11:00, da aggiornare alla pubblicazione ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:milan-u20-15@milan-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20261216T12undefined00
+DTEND;TZID=Europe/Rome:20261216T14undefined00
+SUMMARY:16/12/2026 - 11:00 - Milan U20 - Parma U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario non ancora specificato: riferimento tecnico 11:00, da aggiornare alla pubblicazione ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:milan-u20-16@milan-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20261219T12undefined00
+DTEND;TZID=Europe/Rome:20261219T14undefined00
+SUMMARY:19/12/2026 - 11:00 - Inter U20 - Milan U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario non ancora specificato: riferimento tecnico 11:00, da aggiornare alla pubblicazione ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:milan-u20-17@milan-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270103T01undefined00
+DTEND;TZID=Europe/Rome:20270103T03undefined00
+SUMMARY:03/01/2027 - 11:00 - Milan U20 - Como U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario non ancora specificato: riferimento tecnico 11:00, da aggiornare alla pubblicazione ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:milan-u20-18@milan-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270106T01undefined00
+DTEND;TZID=Europe/Rome:20270106T03undefined00
+SUMMARY:06/01/2027 - 11:00 - Empoli U20 - Milan U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario non ancora specificato: riferimento tecnico 11:00, da aggiornare alla pubblicazione ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:milan-u20-19@milan-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270109T01undefined00
+DTEND;TZID=Europe/Rome:20270109T03undefined00
+SUMMARY:09/01/2027 - 11:00 - Milan U20 - Bologna U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario non ancora specificato: riferimento tecnico 11:00, da aggiornare alla pubblicazione ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:milan-u20-20@milan-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270116T01undefined00
+DTEND;TZID=Europe/Rome:20270116T03undefined00
+SUMMARY:16/01/2027 - 11:00 - Torino U20 - Milan U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario non ancora specificato: riferimento tecnico 11:00, da aggiornare alla pubblicazione ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:milan-u20-21@milan-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270123T01undefined00
+DTEND;TZID=Europe/Rome:20270123T03undefined00
+SUMMARY:23/01/2027 - 11:00 - Milan U20 - Lazio U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario non ancora specificato: riferimento tecnico 11:00, da aggiornare alla pubblicazione ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:milan-u20-22@milan-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270130T01undefined00
+DTEND;TZID=Europe/Rome:20270130T03undefined00
+SUMMARY:30/01/2027 - 11:00 - AlbinoLeffe U20 - Milan U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario non ancora specificato: riferimento tecnico 11:00, da aggiornare alla pubblicazione ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:milan-u20-23@milan-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270206T02undefined00
+DTEND;TZID=Europe/Rome:20270206T04undefined00
+SUMMARY:06/02/2027 - 11:00 - Milan U20 - Sassuolo U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario non ancora specificato: riferimento tecnico 11:00, da aggiornare alla pubblicazione ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:milan-u20-24@milan-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270213T02undefined00
+DTEND;TZID=Europe/Rome:20270213T04undefined00
+SUMMARY:13/02/2027 - 11:00 - Lecce U20 - Milan U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario non ancora specificato: riferimento tecnico 11:00, da aggiornare alla pubblicazione ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:milan-u20-25@milan-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270220T02undefined00
+DTEND;TZID=Europe/Rome:20270220T04undefined00
+SUMMARY:20/02/2027 - 11:00 - Milan U20 - Monza U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario non ancora specificato: riferimento tecnico 11:00, da aggiornare alla pubblicazione ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:milan-u20-26@milan-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270227T02undefined00
+DTEND;TZID=Europe/Rome:20270227T04undefined00
+SUMMARY:27/02/2027 - 11:00 - Roma U20 - Milan U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario non ancora specificato: riferimento tecnico 11:00, da aggiornare alla pubblicazione ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:milan-u20-27@milan-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270303T03undefined00
+DTEND;TZID=Europe/Rome:20270303T05undefined00
+SUMMARY:03/03/2027 - 11:00 - Milan U20 - Verona U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario non ancora specificato: riferimento tecnico 11:00, da aggiornare alla pubblicazione ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:milan-u20-28@milan-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270306T03undefined00
+DTEND;TZID=Europe/Rome:20270306T05undefined00
+SUMMARY:06/03/2027 - 11:00 - Genoa U20 - Milan U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario non ancora specificato: riferimento tecnico 11:00, da aggiornare alla pubblicazione ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:milan-u20-29@milan-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270313T03undefined00
+DTEND;TZID=Europe/Rome:20270313T05undefined00
+SUMMARY:13/03/2027 - 11:00 - Juventus U20 - Milan U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario non ancora specificato: riferimento tecnico 11:00, da aggiornare alla pubblicazione ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:milan-u20-30@milan-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270320T03undefined00
+DTEND;TZID=Europe/Rome:20270320T05undefined00
+SUMMARY:20/03/2027 - 11:00 - Milan U20 - Empoli U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario non ancora specificato: riferimento tecnico 11:00, da aggiornare alla pubblicazione ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:milan-u20-31@milan-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270403T04undefined00
+DTEND;TZID=Europe/Rome:20270403T06undefined00
+SUMMARY:03/04/2027 - 11:00 - Como U20 - Milan U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario non ancora specificato: riferimento tecnico 11:00, da aggiornare alla pubblicazione ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:milan-u20-32@milan-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270410T04undefined00
+DTEND;TZID=Europe/Rome:20270410T06undefined00
+SUMMARY:10/04/2027 - 11:00 - Milan U20 - Atalanta U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario non ancora specificato: riferimento tecnico 11:00, da aggiornare alla pubblicazione ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:milan-u20-33@milan-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270417T04undefined00
+DTEND;TZID=Europe/Rome:20270417T06undefined00
+SUMMARY:17/04/2027 - 11:00 - Milan U20 - Cesena U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario non ancora specificato: riferimento tecnico 11:00, da aggiornare alla pubblicazione ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:milan-u20-34@milan-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270424T04undefined00
+DTEND;TZID=Europe/Rome:20270424T06undefined00
+SUMMARY:24/04/2027 - 11:00 - Bologna U20 - Milan U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario non ancora specificato: riferimento tecnico 11:00, da aggiornare alla pubblicazione ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:milan-u20-35@milan-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270501T05undefined00
+DTEND;TZID=Europe/Rome:20270501T07undefined00
+SUMMARY:01/05/2027 - 11:00 - Milan U20 - Inter U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario non ancora specificato: riferimento tecnico 11:00, da aggiornare alla pubblicazione ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:milan-u20-36@milan-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270508T05undefined00
+DTEND;TZID=Europe/Rome:20270508T07undefined00
+SUMMARY:08/05/2027 - 11:00 - Parma U20 - Milan U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario non ancora specificato: riferimento tecnico 11:00, da aggiornare alla pubblicazione ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:milan-u20-37@milan-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270515T05undefined00
+DTEND;TZID=Europe/Rome:20270515T07undefined00
+SUMMARY:15/05/2027 - 11:00 - Milan U20 - Fiorentina U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario non ancora specificato: riferimento tecnico 11:00, da aggiornare alla pubblicazione ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:milan-u20-38@milan-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270522T05undefined00
+DTEND;TZID=Europe/Rome:20270522T07undefined00
+SUMMARY:22/05/2027 - 11:00 - Cagliari U20 - Milan U20
+DESCRIPTION:Campionato Primavera 1 2026/2027 | Calendario ufficiale Lega Serie A | Orario non ancora specificato: riferimento tecnico 11:00, da aggiornare alla pubblicazione ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
