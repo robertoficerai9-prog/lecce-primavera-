@@ -1,3 +1,278 @@
 BEGIN:VCALENDAR
 VERSION:2.0
+PRODID:-//Palermo Primavera U20 ICS//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Palermo Primavera U20 2026/27
+X-WR-TIMEZONE:Europe/Rome
+BEGIN:VEVENT
+UID:palermo-primavera-1@palermo-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20260908T110000
+DTEND;TZID=Europe/Rome:20260908T130000
+SUMMARY:08/09/2026 - 11:00 - Palermo Primavera - Pescara Primavera
+DESCRIPTION:Primavera 2 Cisalfa Sport 2026/27 | Girone B | Fonte: Lega Serie B ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:palermo-primavera-2@palermo-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20260912T143000
+DTEND;TZID=Europe/Rome:20260912T160000
+SUMMARY:12/09/2026 - 14:30 - Spezia Primavera - Palermo Primavera
+DESCRIPTION:Primavera 2 Cisalfa Sport 2026/27 | Girone B | Fonte: Lega Serie B ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:palermo-primavera-3@palermo-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20260919T110000
+DTEND;TZID=Europe/Rome:20260919T130000
+SUMMARY:19/09/2026 - 11:00 - Palermo Primavera - Bari Primavera
+DESCRIPTION:Primavera 2 Cisalfa Sport 2026/27 | Girone B | Fonte: Lega Serie B ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:palermo-primavera-4@palermo-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20261010T150000
+DTEND;TZID=Europe/Rome:20261010T170000
+SUMMARY:10/10/2026 - 15:00 - Frosinone Primavera - Palermo Primavera
+DESCRIPTION:Primavera 2 Cisalfa Sport 2026/27 | Girone B | Fonte: Lega Serie B ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:palermo-primavera-5@palermo-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20261017T150000
+DTEND;TZID=Europe/Rome:20261017T170000
+SUMMARY:17/10/2026 - 15:00 - Palermo Primavera - Perugia Primavera
+DESCRIPTION:Primavera 2 Cisalfa Sport 2026/27 | Girone B | Fonte: Lega Serie B ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:palermo-primavera-6@palermo-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20261024T150000
+DTEND;TZID=Europe/Rome:20261024T170000
+SUMMARY:24/10/2026 - 15:00 - Salernitana Primavera - Palermo Primavera
+DESCRIPTION:Primavera 2 Cisalfa Sport 2026/27 | Girone B | Fonte: Lega Serie B ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:palermo-primavera-7@palermo-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20261031T150000
+DTEND;TZID=Europe/Rome:20261031T170000
+SUMMARY:31/10/2026 - 15:00 - Palermo Primavera - Catanzaro Primavera
+DESCRIPTION:Primavera 2 Cisalfa Sport 2026/27 | Girone B | Fonte: Lega Serie B ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:palermo-primavera-8@palermo-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20261107T150000
+DTEND;TZID=Europe/Rome:20261107T170000
+SUMMARY:07/11/2026 - 15:00 - Avellino Primavera - Palermo Primavera
+DESCRIPTION:Primavera 2 Cisalfa Sport 2026/27 | Girone B | Fonte: Lega Serie B ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:palermo-primavera-9@palermo-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20261121T150000
+DTEND;TZID=Europe/Rome:20261121T170000
+SUMMARY:21/11/2026 - 15:00 - Pisa Primavera - Palermo Primavera
+DESCRIPTION:Primavera 2 Cisalfa Sport 2026/27 | Girone B | Fonte: Lega Serie B ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:palermo-primavera-10@palermo-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20261128T150000
+DTEND;TZID=Europe/Rome:20261128T170000
+SUMMARY:28/11/2026 - 15:00 - Palermo Primavera - Latina Primavera
+DESCRIPTION:Primavera 2 Cisalfa Sport 2026/27 | Girone B | Fonte: Lega Serie B ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:palermo-primavera-11@palermo-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20261205T150000
+DTEND;TZID=Europe/Rome:20261205T170000
+SUMMARY:05/12/2026 - 15:00 - Palermo Primavera - Ascoli Primavera
+DESCRIPTION:Primavera 2 Cisalfa Sport 2026/27 | Girone B | Fonte: Lega Serie B ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:palermo-primavera-12@palermo-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20261212T150000
+DTEND;TZID=Europe/Rome:20261212T170000
+SUMMARY:12/12/2026 - 15:00 - Napoli Primavera - Palermo Primavera
+DESCRIPTION:Primavera 2 Cisalfa Sport 2026/27 | Girone B | Fonte: Lega Serie B ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:palermo-primavera-13@palermo-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20261219T150000
+DTEND;TZID=Europe/Rome:20261219T170000
+SUMMARY:19/12/2026 - 15:00 - Palermo Primavera - Cosenza Primavera
+DESCRIPTION:Primavera 2 Cisalfa Sport 2026/27 | Girone B | Fonte: Lega Serie B ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:palermo-primavera-14@palermo-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270109T150000
+DTEND;TZID=Europe/Rome:20270109T170000
+SUMMARY:09/01/2027 - 15:00 - Benevento Primavera - Palermo Primavera
+DESCRIPTION:Primavera 2 Cisalfa Sport 2026/27 | Girone B | Fonte: Lega Serie B ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:palermo-primavera-15@palermo-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270116T150000
+DTEND;TZID=Europe/Rome:20270116T170000
+SUMMARY:16/01/2027 - 15:00 - Palermo Primavera - Monopoli Primavera
+DESCRIPTION:Primavera 2 Cisalfa Sport 2026/27 | Girone B | Fonte: Lega Serie B ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:palermo-primavera-16@palermo-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270123T150000
+DTEND;TZID=Europe/Rome:20270123T170000
+SUMMARY:23/01/2027 - 15:00 - Perugia Primavera - Palermo Primavera
+DESCRIPTION:Primavera 2 Cisalfa Sport 2026/27 | Girone B | Fonte: Lega Serie B ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:palermo-primavera-17@palermo-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270130T150000
+DTEND;TZID=Europe/Rome:20270130T170000
+SUMMARY:30/01/2027 - 15:00 - Palermo Primavera - Avellino Primavera
+DESCRIPTION:Primavera 2 Cisalfa Sport 2026/27 | Girone B | Fonte: Lega Serie B ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:palermo-primavera-18@palermo-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270206T150000
+DTEND;TZID=Europe/Rome:20270206T170000
+SUMMARY:06/02/2027 - 15:00 - Ascoli Primavera - Palermo Primavera
+DESCRIPTION:Primavera 2 Cisalfa Sport 2026/27 | Girone B | Fonte: Lega Serie B ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:palermo-primavera-19@palermo-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270213T150000
+DTEND;TZID=Europe/Rome:20270213T170000
+SUMMARY:13/02/2027 - 15:00 - Palermo Primavera - Napoli Primavera
+DESCRIPTION:Primavera 2 Cisalfa Sport 2026/27 | Girone B | Fonte: Lega Serie B ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:palermo-primavera-20@palermo-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270220T150000
+DTEND;TZID=Europe/Rome:20270220T170000
+SUMMARY:20/02/2027 - 15:00 - Pescara Primavera - Palermo Primavera
+DESCRIPTION:Primavera 2 Cisalfa Sport 2026/27 | Girone B | Fonte: Lega Serie B ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:palermo-primavera-21@palermo-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270227T150000
+DTEND;TZID=Europe/Rome:20270227T170000
+SUMMARY:27/02/2027 - 15:00 - Palermo Primavera - Spezia Primavera
+DESCRIPTION:Primavera 2 Cisalfa Sport 2026/27 | Girone B | Fonte: Lega Serie B ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:palermo-primavera-22@palermo-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270306T150000
+DTEND;TZID=Europe/Rome:20270306T170000
+SUMMARY:06/03/2027 - 15:00 - Latina Primavera - Palermo Primavera
+DESCRIPTION:Primavera 2 Cisalfa Sport 2026/27 | Girone B | Fonte: Lega Serie B ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:palermo-primavera-23@palermo-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270313T150000
+DTEND;TZID=Europe/Rome:20270313T170000
+SUMMARY:13/03/2027 - 15:00 - Palermo Primavera - Benevento Primavera
+DESCRIPTION:Primavera 2 Cisalfa Sport 2026/27 | Girone B | Fonte: Lega Serie B ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:palermo-primavera-24@palermo-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270320T150000
+DTEND;TZID=Europe/Rome:20270320T170000
+SUMMARY:20/03/2027 - 15:00 - Bari Primavera - Palermo Primavera
+DESCRIPTION:Primavera 2 Cisalfa Sport 2026/27 | Girone B | Fonte: Lega Serie B ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:palermo-primavera-25@palermo-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270403T150000
+DTEND;TZID=Europe/Rome:20270403T170000
+SUMMARY:03/04/2027 - 15:00 - Palermo Primavera - Pisa Primavera
+DESCRIPTION:Primavera 2 Cisalfa Sport 2026/27 | Girone B | Fonte: Lega Serie B ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:palermo-primavera-26@palermo-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270410T150000
+DTEND;TZID=Europe/Rome:20270410T170000
+SUMMARY:10/04/2027 - 15:00 - Palermo Primavera - Salernitana Primavera
+DESCRIPTION:Primavera 2 Cisalfa Sport 2026/27 | Girone B | Fonte: Lega Serie B ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:palermo-primavera-27@palermo-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270417T150000
+DTEND;TZID=Europe/Rome:20270417T170000
+SUMMARY:17/04/2027 - 15:00 - Monopoli Primavera - Palermo Primavera
+DESCRIPTION:Primavera 2 Cisalfa Sport 2026/27 | Girone B | Fonte: Lega Serie B ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:palermo-primavera-28@palermo-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270424T150000
+DTEND;TZID=Europe/Rome:20270424T170000
+SUMMARY:24/04/2027 - 15:00 - Catanzaro Primavera - Palermo Primavera
+DESCRIPTION:Primavera 2 Cisalfa Sport 2026/27 | Girone B | Fonte: Lega Serie B ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:palermo-primavera-29@palermo-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270501T150000
+DTEND;TZID=Europe/Rome:20270501T170000
+SUMMARY:01/05/2027 - 15:00 - Palermo Primavera - Frosinone Primavera
+DESCRIPTION:Primavera 2 Cisalfa Sport 2026/27 | Girone B | Fonte: Lega Serie B ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:palermo-primavera-30@palermo-primavera
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270508T150000
+DTEND;TZID=Europe/Rome:20270508T170000
+SUMMARY:08/05/2027 - 15:00 - Cosenza Primavera - Palermo Primavera
+DESCRIPTION:Primavera 2 Cisalfa Sport 2026/27 | Girone B | Fonte: Lega Serie B ufficiale.
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR
