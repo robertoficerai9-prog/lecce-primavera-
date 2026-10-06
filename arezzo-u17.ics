@@ -1,3 +1,242 @@
 BEGIN:VCALENDAR
 VERSION:2.0
+PRODID:-//Arezzo U17 ICS//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arezzo U17 2026/27
+X-WR-TIMEZONE:Europe/Rome
+BEGIN:VEVENT
+UID:arezzo-u17-1@arezzo-u17
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20260927T100000
+DTEND;TZID=Europe/Rome:20260927T120000
+SUMMARY:27/09/2026 - 10:00 - Arezzo Football Academy U17 - Atletico Levane Leona U17
+DESCRIPTION:Under 17 Allievi Provinciali Arezzo 2026/27 | Girone A | Fonte: FIGC-LND Toscana, Delegazione Provinciale di Arezzo.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:arezzo-u17-2@arezzo-u17
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20261004T100000
+DTEND;TZID=Europe/Rome:20261004T120000
+SUMMARY:04/10/2026 - 10:00 - OlmoponteArezzo S.Firmina U17 - Arezzo Football Academy U17
+DESCRIPTION:Under 17 Allievi Provinciali Arezzo 2026/27 | Girone A | Fonte: FIGC-LND Toscana, Delegazione Provinciale di Arezzo.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:arezzo-u17-3@arezzo-u17
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20261011T100000
+DTEND;TZID=Europe/Rome:20261011T120000
+SUMMARY:11/10/2026 - 10:00 - Arezzo Football Academy U17 - Cortona Camucia Calcio U17
+DESCRIPTION:Under 17 Allievi Provinciali Arezzo 2026/27 | Girone A | Fonte: FIGC-LND Toscana, Delegazione Provinciale di Arezzo.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:arezzo-u17-4@arezzo-u17
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20261018T100000
+DTEND;TZID=Europe/Rome:20261018T120000
+SUMMARY:18/10/2026 - 10:00 - Lucignano U17 - Arezzo Football Academy U17
+DESCRIPTION:Under 17 Allievi Provinciali Arezzo 2026/27 | Girone A | Fonte: FIGC-LND Toscana, Delegazione Provinciale di Arezzo.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:arezzo-u17-5@arezzo-u17
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20261025T100000
+DTEND;TZID=Europe/Rome:20261025T120000
+SUMMARY:25/10/2026 - 10:00 - Arezzo Football Academy U17 - Castiglionese U17
+DESCRIPTION:Under 17 Allievi Provinciali Arezzo 2026/27 | Girone A | Fonte: FIGC-LND Toscana, Delegazione Provinciale di Arezzo.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:arezzo-u17-6@arezzo-u17
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20261101T100000
+DTEND;TZID=Europe/Rome:20261101T120000
+SUMMARY:01/11/2026 - 10:00 - Bibbiena U17 - Arezzo Football Academy U17
+DESCRIPTION:Under 17 Allievi Provinciali Arezzo 2026/27 | Girone A | Fonte: FIGC-LND Toscana, Delegazione Provinciale di Arezzo.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:arezzo-u17-7@arezzo-u17
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20261108T100000
+DTEND;TZID=Europe/Rome:20261108T120000
+SUMMARY:08/11/2026 - 10:00 - Sansovino U17 - Arezzo Football Academy U17
+DESCRIPTION:Under 17 Allievi Provinciali Arezzo 2026/27 | Girone A | Fonte: FIGC-LND Toscana, Delegazione Provinciale di Arezzo.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:arezzo-u17-8@arezzo-u17
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20261115T100000
+DTEND;TZID=Europe/Rome:20261115T120000
+SUMMARY:15/11/2026 - 10:00 - Arezzo Football Academy U17 - Casentino Academy U17
+DESCRIPTION:Under 17 Allievi Provinciali Arezzo 2026/27 | Girone A | Fonte: FIGC-LND Toscana, Delegazione Provinciale di Arezzo.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:arezzo-u17-9@arezzo-u17
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20261122T100000
+DTEND;TZID=Europe/Rome:20261122T120000
+SUMMARY:22/11/2026 - 10:00 - Arno Castiglioni Laterina U17 - Arezzo Football Academy U17
+DESCRIPTION:Under 17 Allievi Provinciali Arezzo 2026/27 | Girone A | Fonte: FIGC-LND Toscana, Delegazione Provinciale di Arezzo.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:arezzo-u17-10@arezzo-u17
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20261129T100000
+DTEND;TZID=Europe/Rome:20261129T120000
+SUMMARY:29/11/2026 - 10:00 - Arezzo Football Academy U17 - Fortis Arezzo U17
+DESCRIPTION:Under 17 Allievi Provinciali Arezzo 2026/27 | Girone A | Fonte: FIGC-LND Toscana, Delegazione Provinciale di Arezzo.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:arezzo-u17-11@arezzo-u17
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20261206T100000
+DTEND;TZID=Europe/Rome:20261206T120000
+SUMMARY:06/12/2026 - 10:00 - Arezzo Football Academy U17 - Marino Mercato Subbiano U17
+DESCRIPTION:Under 17 Allievi Provinciali Arezzo 2026/27 | Girone A | Fonte: FIGC-LND Toscana, Delegazione Provinciale di Arezzo.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:arezzo-u17-12@arezzo-u17
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20261213T100000
+DTEND;TZID=Europe/Rome:20261213T120000
+SUMMARY:13/12/2026 - 10:00 - Arezzo Football Academy U17 - Marino Mercato Subbiano U17
+DESCRIPTION:Under 17 Allievi Provinciali Arezzo 2026/27 | Girone A | Fonte: FIGC-LND Toscana, Delegazione Provinciale di Arezzo.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:arezzo-u17-13@arezzo-u17
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20261220T100000
+DTEND;TZID=Europe/Rome:20261220T120000
+SUMMARY:20/12/2026 - 10:00 - Arezzo Football Academy U17 - Fortis Arezzo U17
+DESCRIPTION:Under 17 Allievi Provinciali Arezzo 2026/27 | Girone A | Fonte: FIGC-LND Toscana, Delegazione Provinciale di Arezzo.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:arezzo-u17-14@arezzo-u17
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270117T100000
+DTEND;TZID=Europe/Rome:20270117T120000
+SUMMARY:17/01/2027 - 10:00 - Atletico Levane Leona U17 - Fortis Arezzo U17
+DESCRIPTION:Under 17 Allievi Provinciali Arezzo 2026/27 | Girone A | Fonte: FIGC-LND Toscana, Delegazione Provinciale di Arezzo.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:arezzo-u17-15@arezzo-u17
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270124T100000
+DTEND;TZID=Europe/Rome:20270124T120000
+SUMMARY:24/01/2027 - 10:00 - Sansovino U17 - Arezzo Football Academy U17
+DESCRIPTION:Under 17 Allievi Provinciali Arezzo 2026/27 | Girone A | Fonte: FIGC-LND Toscana, Delegazione Provinciale di Arezzo.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:arezzo-u17-16@arezzo-u17
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270131T100000
+DTEND;TZID=Europe/Rome:20270131T120000
+SUMMARY:31/01/2027 - 10:00 - Arezzo Football Academy U17 - Casentino Academy U17
+DESCRIPTION:Under 17 Allievi Provinciali Arezzo 2026/27 | Girone A | Fonte: FIGC-LND Toscana, Delegazione Provinciale di Arezzo.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:arezzo-u17-17@arezzo-u17
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270207T100000
+DTEND;TZID=Europe/Rome:20270207T120000
+SUMMARY:07/02/2027 - 10:00 - Arezzo Football Academy U17 - Casentino Academy U17
+DESCRIPTION:Under 17 Allievi Provinciali Arezzo 2026/27 | Girone A | Fonte: FIGC-LND Toscana, Delegazione Provinciale di Arezzo.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:arezzo-u17-18@arezzo-u17
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270214T100000
+DTEND;TZID=Europe/Rome:20270214T120000
+SUMMARY:14/02/2027 - 10:00 - Arezzo Football Academy U17 - Fortis Arezzo U17
+DESCRIPTION:Under 17 Allievi Provinciali Arezzo 2026/27 | Girone A | Fonte: FIGC-LND Toscana, Delegazione Provinciale di Arezzo.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:arezzo-u17-19@arezzo-u17
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270221T100000
+DTEND;TZID=Europe/Rome:20270221T120000
+SUMMARY:21/02/2027 - 10:00 - Bibbiena U17 - Arezzo Football Academy U17
+DESCRIPTION:Under 17 Allievi Provinciali Arezzo 2026/27 | Girone A | Fonte: FIGC-LND Toscana, Delegazione Provinciale di Arezzo.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:arezzo-u17-20@arezzo-u17
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270228T100000
+DTEND;TZID=Europe/Rome:20270228T120000
+SUMMARY:28/02/2027 - 10:00 - Arezzo Football Academy U17 - Atletico Levane Leona U17
+DESCRIPTION:Under 17 Allievi Provinciali Arezzo 2026/27 | Girone A | Fonte: FIGC-LND Toscana, Delegazione Provinciale di Arezzo.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:arezzo-u17-21@arezzo-u17
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270307T100000
+DTEND;TZID=Europe/Rome:20270307T120000
+SUMMARY:07/03/2027 - 10:00 - Arezzo Football Academy U17 - Casentino Academy U17
+DESCRIPTION:Under 17 Allievi Provinciali Arezzo 2026/27 | Girone A | Fonte: FIGC-LND Toscana, Delegazione Provinciale di Arezzo.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:arezzo-u17-22@arezzo-u17
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270314T100000
+DTEND;TZID=Europe/Rome:20270314T120000
+SUMMARY:14/03/2027 - 10:00 - Arno Castiglioni Laterina U17 - Arezzo Football Academy U17
+DESCRIPTION:Under 17 Allievi Provinciali Arezzo 2026/27 | Girone A | Fonte: FIGC-LND Toscana, Delegazione Provinciale di Arezzo.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:arezzo-u17-23@arezzo-u17
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270321T100000
+DTEND;TZID=Europe/Rome:20270321T120000
+SUMMARY:21/03/2027 - 10:00 - Capolona Quarata U17 - Arezzo Football Academy U17
+DESCRIPTION:Under 17 Allievi Provinciali Arezzo 2026/27 | Girone A | Fonte: FIGC-LND Toscana, Delegazione Provinciale di Arezzo.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:arezzo-u17-24@arezzo-u17
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270404T100000
+DTEND;TZID=Europe/Rome:20270404T120000
+SUMMARY:04/04/2027 - 10:00 - Arezzo Football Academy U17 - Marino Mercato Subbiano U17
+DESCRIPTION:Under 17 Allievi Provinciali Arezzo 2026/27 | Girone A | Fonte: FIGC-LND Toscana, Delegazione Provinciale di Arezzo.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:arezzo-u17-25@arezzo-u17
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270411T100000
+DTEND;TZID=Europe/Rome:20270411T120000
+SUMMARY:11/04/2027 - 10:00 - Arezzo Football Academy U17 - Marino Mercato Subbiano U17
+DESCRIPTION:Under 17 Allievi Provinciali Arezzo 2026/27 | Girone A | Fonte: FIGC-LND Toscana, Delegazione Provinciale di Arezzo.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:arezzo-u17-26@arezzo-u17
+DTSTAMP:20261006T000000Z
+DTSTART;TZID=Europe/Rome:20270418T100000
+DTEND;TZID=Europe/Rome:20270418T120000
+SUMMARY:18/04/2027 - 10:00 - Arezzo Football Academy U17 - Fortis Arezzo U17
+DESCRIPTION:Under 17 Allievi Provinciali Arezzo 2026/27 | Girone A | Fonte: FIGC-LND Toscana, Delegazione Provinciale di Arezzo.
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR
